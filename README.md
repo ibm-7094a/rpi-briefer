@@ -68,3 +68,7 @@ To set up and use Rpi-Briefer, follow these steps:
 
 - **Email Credentials:**
   - Use your Gmail credentials to send the email. For security, use an [App Password](https://support.google.com/accounts/answer/185833?hl=en) instead of your regular Gmail password.
+ 
+- **Schedule Command Execution:**
+  - On UNIX-based systems (what else do you run on your pi?) use the built-in CRON command for scheduling. Learn about it [here](https://linuxconfig.org/using-cron-scheduler-on-linux-systems), it's useful!
+
